@@ -1,0 +1,1 @@
+La commande  git add permet de déplacer vos fichiers vers la staging area
