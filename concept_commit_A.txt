@@ -1,0 +1,3 @@
+Git commit sauvegarde tous les changements de fichiers, avec git add ils permettent de sauvegarder des changement vers ce repo.
+Git commit ferme les portes du bus
+Git commit -m "message"
